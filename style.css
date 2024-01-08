@@ -1,0 +1,525 @@
+.container{
+    display:grid;
+    grid-template-columns: 350px 250px 350px 350px;
+    grid-template-rows: 300px 300px;
+}
+#TT{
+    background-color:#553B8C;
+    grid-column-end: span 2; 
+    grid-row-end:span 2;
+}
+.image-container{
+    position: relative;
+    top: 185px;
+    right:30px;
+    border-radius: 30px;
+    border: 6px solid #F2F2F2;
+}
+.HH{
+    color:white;
+}
+.para{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18pt;
+    padding-top: 130px;
+    padding-left: 40px;
+
+}
+.iop{
+    font-family: 'League Spartan', sans-serif;
+    font-weight: bold;
+    padding-top: 40px;
+    padding-left: 40px;
+    display: flex;
+}
+.head{
+    border-bottom: 3px solid white;
+}
+.first{
+    display:grid;
+    grid-template-columns: 550px 550px;
+    grid-template-rows: 600px;
+}
+.res{
+    padding-top: 90px;
+    font-size:23pt;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    height: 150px;
+    padding-left: 230px;
+    color:black;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+.YY{
+    font-size: 31pt;
+    color:#553B8C;
+    text-decoration: 2px underline black;
+    font-family: 'League Spartan', sans-serif;
+}
+.ss{
+    padding-top: 50px;
+    padding-left: 230px;
+}
+.kk{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.im{
+    border-radius: 30px;
+    border:7px solid black;
+}
+.Ht{
+    border-bottom: 3px solid black;  
+}
+.eee{
+    display: flex;
+    color:#553B8C;
+    padding-left: 30px;
+    font-family: 'League Spartan', sans-serif;
+    font-size:20px;
+}
+.ll{
+    font-family: 'Poppins', sans-serif;
+    font-size: 19pt;
+    padding-bottom: 20px;
+}
+.second{
+    display: grid;
+    grid-template-columns: 450px 450px 450px;
+    grid-template-rows: 600px;
+}
+.g{
+    display: flex;
+    justify-content: center;
+    height: 0%;
+    color:#553B8C;
+    font-family: 'League Spartan', sans-serif;
+    font-weight: bold;
+    padding-right: 165px;
+    padding-left: 35px;
+}
+.hhhh{
+    border-bottom: 3px solid black;
+}
+.svgimg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:300px;
+}
+.rela{
+    position: relative;
+    bottom: 40px;
+    right:30px;
+}
+.communication{
+    color:#553B8C;
+    font-family: 'League Spartan', sans-serif;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.hii{
+    color:#553B8C;
+    font-family: 'League Spartan', sans-serif;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+.man{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:280px;
+}
+.yy{
+    color:#553B8C;
+    font-family: 'League Spartan', sans-serif;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-top: 20px;
+}
+.excla{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:300px;
+}
+.magni{
+    position: relative;
+    top: 20px;
+    right:90px;
+}
+.ff{
+    color:#553B8C;
+    font-family: 'League Spartan', sans-serif;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-right: 30px;
+}
+.dd{
+    color:#553B8C;
+    font-family: 'League Spartan', sans-serif;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-top: 0%;
+    margin-top: 0%;
+    padding-right: 80px;
+}
+.third{
+    display: grid;
+    grid-template-columns: 550px 550px;
+    grid-template-rows: 300px 30px 300px;
+    padding-top: 80px;
+}
+.colour{
+    background-color:#553B8C;
+}
+.ii{
+    color:#553B8C;
+    font-family: 'League Spartan', sans-serif;
+    display: flex;
+    padding-left: 80px;
+    padding-top: 80px;
+}
+.as{
+    border-bottom: 3px solid black;
+    font-weight: bold;
+}
+.tyu{
+    padding-left: 500px;
+}
+.hyu{
+    border-radius: 20px;
+    border:5px solid white;
+}
+.project1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.oiu{
+    border-bottom: 3px solid black;
+    font-weight: bold;
+}
+.rt{
+    color:#553B8C;
+    font-family: 'League Spartan', sans-serif;
+    display: flex;
+    padding-left: 80px;
+    padding-top: 80px;
+}
+.zxc{
+    border-radius: 20px;
+    border:5px solid white;
+}
+.project2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.projects{
+    padding-left: 150px;
+}
+.intro{
+    padding-left: 150px;
+}
+.resume{
+    padding-left: 150px;
+}
+.gggg{
+    padding-left: 50px;
+}
+.fourth{
+    display: grid;
+    grid-template-columns: 550px 550px;
+    grid-template-rows: 400px;
+}
+.about{
+    padding-left: 150px;
+}
+.t{
+    color:#553B8C;
+    font-family: 'League Spartan', sans-serif;
+    display: flex;
+    padding-left: 200px;
+    padding-top: 80px;
+}
+.nia{
+    border-bottom: 3px solid black;
+    font-weight: bold;
+}
+.salaar{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16pt;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.leo{
+    text-align: center;
+}
+.piece{
+    color:#553B8C;
+    font-family: 'League Spartan', sans-serif;
+    display: flex;
+    padding-left: 150px;
+    padding-top: 80px;
+}
+.niaa{
+    border-bottom: 3px solid black;
+    font-weight: bold;
+}
+.zoro{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16pt;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.luffy{
+    text-align: center;
+}
+.bt{
+    background-color: #553B8C;
+    color:white;
+    font-family: 'League Spartan', sans-serif;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: larger;   
+}
+.rty{
+    display: flex;
+    justify-content: center;
+}
+.last{
+    background-color: #553B8C;
+    height:300px;
+}
+.footer .nav-link{
+    color: white !important;
+}
+.footer p{
+    color: white !important;
+}
+#TT{
+    height: 99.9vh;
+}
+.resume{
+    padding-top: 100px;
+}
+.para{
+    padding-top: 180px;
+}
+@media (min-width:375px) and (max-width:1300px){
+    .container {
+        height: 100vh;
+    }
+    #TT{
+        height: 2800px;
+    }
+    .resume{
+        padding-top: 1300px;
+    }
+    .iop{
+        display: flex;
+        align-items: center;
+        height: 70vh;
+    }
+    #TTT{
+        display: flex;
+        align-items: center;
+        height: 150vh;
+    }
+    .head{
+        font-size: 4rem;
+    }
+    .para{
+        font-size: 3rem;
+    }
+    .image-container{
+        height: 600px;
+        width: 600px;
+    }
+    .res{
+        padding-bottom: 600px;
+        font-size: 4rem;
+        padding-left: 150px;
+    }
+    .projects{
+        padding-top: 300px;
+        display: block;
+    }
+    .rip{
+        padding-bottom: 200px;
+    }
+    .kk{
+        height: 95vh;
+    }
+    .im{
+        height: 600px;
+        width: 600px;
+    }
+    .as{
+        font-size: 4rem;
+    }
+    .oiu{
+        font-size: 4rem;
+    }
+    .about{
+        padding-top: 100px;
+        padding-bottom: 0%;
+    }
+    .colour{
+        display: none;
+    }
+    .project1{
+        height: 50vh;
+        display: flex;
+        justify-content: left;
+    }
+    .project2{
+        height: 125vh;
+        display: flex;
+        justify-content: right;
+    }
+    .heading{
+        display: flex;
+        align-items: center;
+        height: 80vh;
+        width: 100%;
+    }
+    .tyu{
+        display: none !important;
+    }
+    .hyu{
+        height: 300px;
+    }
+    .zxc{
+        height: 300px;
+    }
+    .one{
+        position: relative !important;
+        top: 0px;
+        right: 100px;
+        grid-column-end: span 2; 
+        grid-row-end:span 2;
+        padding-left: 100px;
+        padding-bottom: 1000px;
+        padding-top: 300px;
+    }
+    .r{
+        grid-column-end: span 2; 
+        grid-row-end:span 2;
+        height: 0vh;
+    }
+    .t{
+       padding: 0%;
+       margin: 0%;
+    }
+    .leo{
+        text-align: left;
+    }
+    .piece{
+        padding: 0%;
+       margin: 0%;
+    }
+    .luffy{
+        text-align: left;
+    }
+    .salaar{
+        padding: 0%;
+        margin: 0%;
+    }
+    .zoro{
+        padding: 0%;
+        margin: 0%;
+    }
+    .nia{
+        font-size: 4rem;
+    }
+    .leo{
+        font-size: 50px;
+    }
+    .niaa{
+        font-size: 4rem;
+    }
+    .luffy{
+        font-size: 50px;
+    }
+    .rty{
+        padding-top: 100px;
+        margin: 0%;
+        display: flex;
+        justify-content: left;
+    }
+    .bt{
+        font-size: 35px !important;
+        height: 90px;
+        width: 230px;
+    }
+    .t{
+        padding-bottom: 50px;
+    }
+    .piece{
+        padding-bottom: 50px;
+    }
+    .Ht{
+        font-size: 4rem;
+    }
+    .g{
+        padding-left: 130px;
+        font-size: 1.5em;
+    }
+    .s{
+        position: relative;
+        top: 400px;
+        right: 450px;
+    }
+    .w{
+        position: relative;
+        top: 750px;
+        right: 870px;
+    }
+    .second{
+        padding-top: 50px;
+        padding-left: 200px;
+    }
+    .dd{
+        padding-left: 50px;
+    }
+    .last{
+        padding: 0%;
+        height: 20vh;
+        width: 86vh;
+    }
+    .footer{
+        padding-top: 250px;
+    }
+    .one{
+        padding-bottom: 0%;
+    }
+    .YY{
+        font-size: 6rem;
+        text-decoration: 6px underline black;
+    }
+    .footer .nav-link{
+        font-size: 1.7rem !important;
+    }
+    .footer p{
+        font-size: 1.7rem !important;
+    }
+    .heading{
+        padding-bottom: 300px;
+    }
+    .project2{
+        padding-bottom: 200px;
+    }
+}
